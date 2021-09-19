@@ -1,5 +1,6 @@
 //Rad sa vise node_fajlova (poslednji zadatak)
 //Zivorad Jovanovic EE81/2017
+//Setih se da udjem na git i da updatujem ovu verziju sa jednim obicnim komentarom
 
 #include <linux/kernel.h>
 #include <linux/device.h>
