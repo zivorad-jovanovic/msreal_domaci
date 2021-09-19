@@ -2,6 +2,8 @@
 //Zivorad Jovanovic EE81/2017
 //Setih se da udjem na git i da updatujem ovu verziju sa jednim obicnim komentarom
 
+//Sada su grane spojene u jednu 
+
 #include <linux/kernel.h>
 #include <linux/device.h>
 #include <linux/string.h>
