@@ -7,6 +7,7 @@ Pri komandi echo "format={dec,bin,heks}" se bira format ispisa pomocu cat komand
   */
 
 // Zivorad Jovanovic EE81/2017
+// i ovde uradjen novi commit na novoj grani (dodat novi komentar)
 
 #include <linux/kernel.h>
 #include <linux/device.h>
